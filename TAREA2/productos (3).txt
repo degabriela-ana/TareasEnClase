@@ -1,0 +1,6 @@
+Laptop 3500 10
+Mouse 50 25
+Teclado 120 15
+Tablet 670 10
+Microfono 36 9
+Audifonos 45 16 
